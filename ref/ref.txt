@@ -1,0 +1,46 @@
+sites:
+	mozilla developer network
+	w3c standards
+	whatwg living standard
+	w3 schools
+
+livros:
+	Editora O'Reilly
+		html5, Mark Pilgrim
+		eric meyer
+			css
+			grid layout in css
+		flexbox, estelle weyl
+
+	alta books
+
+		html5 e css3, elizabeth castro e bruce hyslop
+		html e css, jon duckett
+		use a cabeça html html e css, elisabeth robson e eric freeman
+		
+	novatec
+		crie seu próprio site, nate cooper e kim gee
+		mauricio samy silva
+			html 5
+			css 3
+			fundamentos de html5 e css3
+			css grid layout
+
+	gg
+		curso de design gráfico, david dabner e outros
+		a psicologia das cores, eva heller
+		pensar com tipos, ellen lupton
+		
+
+	senac
+		design, bob e maggie gordon
+
+	ostraining
+		jorge montoya e stephen burge
+			flexbox explained
+			css grid explained
+
+	bookman
+		smashing html5, bill sanders
+		smashing css, eric meyer
+			
